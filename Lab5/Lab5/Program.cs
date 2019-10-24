@@ -12,7 +12,7 @@ namespace Lab5
 {
     class Program
     {
-        //comment11
+        //comment11bivas
         static CloudStorageAccount storageAccount;
         static CloudTableClient tableClient;
         static CloudTable table;
