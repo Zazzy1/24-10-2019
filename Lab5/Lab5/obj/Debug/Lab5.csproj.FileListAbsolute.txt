@@ -1,0 +1,17 @@
+C:\Capgemini\Module4\TestPractice\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Capgemini\Module4\TestPractice\Lab5\Lab5\bin\Debug\Lab5.exe
+C:\Capgemini\Module4\TestPractice\Lab5\Lab5\bin\Debug\Lab5.pdb
+C:\Capgemini\Module4\TestPractice\Lab5\Lab5\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Capgemini\Module4\TestPractice\Lab5\Lab5\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Capgemini\Module4\TestPractice\Lab5\Lab5\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Capgemini\Module4\TestPractice\Lab5\Lab5\bin\Debug\Newtonsoft.Json.dll
+C:\Capgemini\Module4\TestPractice\Lab5\Lab5\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Capgemini\Module4\TestPractice\Lab5\Lab5\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Capgemini\Module4\TestPractice\Lab5\Lab5\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Capgemini\Module4\TestPractice\Lab5\Lab5\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Capgemini\Module4\TestPractice\Lab5\Lab5\bin\Debug\Newtonsoft.Json.xml
+C:\Capgemini\Module4\TestPractice\Lab5\Lab5\obj\Debug\Lab5.csprojAssemblyReference.cache
+C:\Capgemini\Module4\TestPractice\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Capgemini\Module4\TestPractice\Lab5\Lab5\obj\Debug\Lab5.csproj.CopyComplete
+C:\Capgemini\Module4\TestPractice\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Capgemini\Module4\TestPractice\Lab5\Lab5\obj\Debug\Lab5.pdb
